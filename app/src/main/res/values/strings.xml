@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PreferenceExercise121</string>
+    <string name="str_first_category_title">SETTINGS</string>
+
+    <string name="str_cbp_checkbox_preference1_title">Screen Lock</string>
+    <string name="str_cbp_checkbox_preference2_title">Checkbox Preference2</string>
+
+    <string name="str_etp_edittext_preference1_title">Password</string>
+    <string name="str_etp_edittext_preference2_title">EditText Preference2</string>
+
+    <string name="str_second_category_title">SECURITY SETTINGS</string>
+
+    <string name="lp_list_preference_title">Reminder For Updation</string>
+
+    <string name="rtp_ringtone_preference_title">Ringtone Preference</string>
+
+    <string name="str_third_category_title">Third Category</string>
+
+    <string name="more">More Settings      \u00A0 \u00A0 \u00A0&gt;&gt;&gt;</string>
+
+    <string-array name="array_list_preference_entries">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+
+    <string-array name="array_list_preference_entry_values">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>
